@@ -1,0 +1,23 @@
+{
+  "type": "library",
+  "name": "wanghua/general-utility-tools-php",
+  "homepage": "https://gitee.com/drop_drop/general_utility_tools_php.git",
+  "description": "general utility tools for PHP ",
+  "license": "Apache-2.0",
+  "version":"1.0.1",
+  "keywords": ["general-utility-tools","php tool","common tool"],
+  "authors": [
+    {
+      "name": "wanghua",
+      "email": "wanghua@qq.com",
+      "homepage": "https://blog.csdn.net/qq_15941409"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "wanghua\\general_utility_tools_php\\": "src/"
+    }
+  }
+}
